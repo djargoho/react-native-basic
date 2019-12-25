@@ -47,7 +47,7 @@ const App: () => React$Node = () => {
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes 존나 힘들었다..</Text>
+              <Text style={styles.sectionTitle}>See Your Changes 존나 힘들었다 so haed....</Text>
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
